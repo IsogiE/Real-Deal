@@ -1,0 +1,5 @@
+package-as: RealDeal
+
+ignore:
+    - LICENSE
+    - README.md
